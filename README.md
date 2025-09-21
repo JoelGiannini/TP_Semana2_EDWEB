@@ -16,7 +16,7 @@ Este repositorio contiene la landing page de una pagina de stramming de pelucula
 
    ```bash
    git clone https://github.com/JoelGiannini/TP_Semana2_EDWEB.git
-   cd TP_Semana2_EDWEB
+   cd <<Directorio generado>>   #Este directorio se genera al clonar el repositorio.
    ```
 
 2. Cambiar a la rama que querés probar:
